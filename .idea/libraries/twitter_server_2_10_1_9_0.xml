@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="twitter-server_2.10-1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/krow/thirdpartyjars/twitter-server_2.10-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
